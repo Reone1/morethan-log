@@ -6,9 +6,9 @@ const CONFIG = {
     role: "devops engineer",
     bio: "Do not again same mistake.",
     email: "j901207@gmail.com",
-    // linkedin: "",
+    linkedin: "reone1",
     github: "reone1",
-    instagram: "",
+    instagram: "reonetnt",
   },
   projects: [
     {
