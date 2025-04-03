@@ -12,10 +12,10 @@ const CONFIG = {
   },
   projects: null,
   // [
-  //   {
-  //     name: `reone`,
-  //     href: "https://github.com/Reone1",
-  //   },
+    // {
+    //   name: `reone`,
+    //   href: "https://github.com/Reone1",
+    // },
   // ],
   // blog setting (required)
   blog: {
